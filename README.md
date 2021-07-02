@@ -1,3 +1,3 @@
 # ImageStitching
 
-Uisng image stitching on car
+Uisng image stitching on abstract view
